@@ -40,13 +40,13 @@ The core logic utilizes a two-step training process to handle the complexity of 
 
 Below is a confusion matrix illustrating the model's ability to classify pathologies accurately during the validation phase.
 
-> [Aperçu de l'application](assets/confusionMatrix.png)
+> [Aperçu de la matrice de confusion](assets/confusionMatrix.png)
 
 ### Interface Design
 
 The tool featured a professional dashboard allowing doctors to upload images or capture them via a custom 3D-printed adapter for iPhone 15.
 
-> *\[Insert your dashboard\_screenshot.png here\]*
+> [Aperçu de l'interface web](assets/webSiteDemo.png)
 
 -----
 
