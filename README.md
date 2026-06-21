@@ -40,7 +40,7 @@ The core logic utilizes a two-step training process to handle the complexity of 
 
 Below is a confusion matrix illustrating the model's ability to classify pathologies accurately during the validation phase.
 
-> ![Aperçu de l'application](assets/confusionMatrix.png)
+> [Aperçu de l'application](assets/confusionMatrix.png)
 
 ### Interface Design
 
